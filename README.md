@@ -2,6 +2,13 @@
 
 **Starting**
 
-Run the start_simulation.sh file
-Run the start_controller.sh file
+Run the start_simulation.sh file. After,
+
+
+
+
+
+
+
+run the start_controller.sh file
 
